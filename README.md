@@ -2,6 +2,8 @@
 
 **Bring the joy of Chuck Norris to your terminal**
 
+### Installation
+
 Clone the repo to your localhost using:
 
 ```
@@ -13,6 +15,18 @@ Install the package (from within the project folder):
 ```
 $ npm install -g .
 ```
+
+### Usage
+
+Simple:
+
+```
+$ chuck -n Kalle
+Here's a random Chuck Norris joke for you Kalle:
+According to Einstein's theory of relativity, Chuck Norris can actually roundhouse kick you yesterday.
+```
+
+### Uninstall
 
 If you want to remove the package, just uninstall it using `npm`:
 
